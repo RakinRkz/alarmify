@@ -1,6 +1,6 @@
 # Alarmify
 ## Introduction
-An alarm system, integrated with your home. The aim of the project is turning on the lights, water heater or coffee maker (or any combination of choice) automatically when it's time for you to wake up. It is helpful for waking up and having a fresh morning start.
+An alarm system, integrated with your home. The aim of the project is to upgrade your morning alarm from only a tune in your phone to turning on the lights, water heater or coffee maker (or any combination of choice) automatically when it's time for you to wake up. It is helpful for waking up and having a fresh morning start.
 
 ## Implementation
 The appliances ar generally AC devices hence requires relays. 
